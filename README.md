@@ -12,8 +12,7 @@ Clear input and result functionality.
 Dark mode and light mode toggle support.
 Toast messages for user feedback.
 
-![Currency Convertor App Screenshoot]('https://github.com/Mohammad-Arsalan521/flutter-currency-converter-app/blob/main/Currency_Convertor_App_Image.mp4.jpg?raw=true)
+![Currency Convertor App Screenshot](https://github.com/Mohammad-Arsalan521/flutter-currency-converter-app/blob/main/Currency_Convertor_App_Image.mp4.jpg?raw=true)
 
-![Currency Convertor App Screenshoot]('https://github.com/Mohammad-Arsalan521/flutter-currency-converter-app/blob/main/Currency_Convertor_App_Image_In_dark_mode.mp4.jpg?raw=true')
-
+![Currency Convertor App Screenshot](https://github.com/Mohammad-Arsalan521/flutter-currency-converter-app/blob/main/Currency_Convertor_App_Image_In_dark_mode.mp4.jpg?raw=true)
 
